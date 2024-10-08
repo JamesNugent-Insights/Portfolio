@@ -2,8 +2,9 @@
 
 ### Projects
 
-Bank Customer Churn Analysis: Power BI Dashboard
-(images/Churn Dashboard.jpeg)
+[Project Presentation](images/Churn Dashboard.jpeg "Bank Customer Churn Analysis: Power BI Dashboard")
+
+
 
 Associate Work Patterns Analysis: Power BI Dashboard
 
