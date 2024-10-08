@@ -2,7 +2,7 @@
 
 ### Projects
 
-![Project Presentation](/images/Churn Dashboard.jpeg)
+![Project Presentation](/images/Churn_Dashboard.jpeg)
 
 
 
