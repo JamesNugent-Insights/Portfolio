@@ -2,7 +2,7 @@
 
 ### Projects
 
-[Project Presentation](images/Churn Dashboard.jpeg "Bank Customer Churn Analysis: Power BI Dashboard")
+![Project Presentation](/images/Churn Dashboard.jpeg)
 
 
 
