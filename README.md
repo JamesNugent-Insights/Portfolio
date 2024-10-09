@@ -30,5 +30,9 @@ Key Insights:
 - Cluster 2 was labelled as 'High earner/Low Spend'.  Potential opportunity to convert these into cluster 1.  Further analysis required - Recommendation to look at other differences between cluster 1 and 2 (Gender,Age, Products)
 - Cluster 4 was labelled as 'Low earner/High Spend'.  Recommendation of discounts/sale items as well as limited time offers.
 
+Dataset: Mall Customers
+
+Tools: Python, K-means Clustering
+
 <img src="images/Clustering1.jpeg" alt="Project Presentation" style="width: 75%; max-width: 500px; height: auto;" />
 
