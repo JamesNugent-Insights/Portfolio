@@ -38,7 +38,7 @@ Tools: Python, K-means Clustering
 
 
 
-### Project 3: HR Analysis / SQL / Powe BI
+### Project 3: HR Analysis / SQL / Power BI
 
 Project Goal 1: To create a database for the client which would include data from 3 seperate CSV files.  Query the database to complete the following tasks for the client: 1 - Find a list of the 'heathiest' associates, 2 - Caluculate the max cash pay increase that can be rewarded to associates based on the current budget of the client.
 
