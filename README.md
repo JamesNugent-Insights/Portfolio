@@ -53,4 +53,5 @@ Dataset: HR Data
 
 Tools: SQL, Power BI
 
+<img src="images/HR Dash1.jpeg" alt="Project Presentation" style="width: 75%; max-width: 500px; height: auto;" />
 
