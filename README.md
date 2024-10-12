@@ -8,7 +8,7 @@ Key Insights:
 - German customers with a much higher churn rate than Spain and France (32% vs 16% avg )
 - Female Customers with a higher churn rate than men (25% vs 17%)
 - Positive relationship between Age and Churn rate, with a notable spike from around 50-60 yrs
-- No notable relationship between Account balance and churn rates
+- No notable relationship between Credit score and churn rates
 - Low savings and very high savings showed high churn rates vs low for those with average savings.
 
 Dataset: Bank Customers
