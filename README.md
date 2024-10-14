@@ -55,3 +55,17 @@ Tools: SQL, Power BI
 
 <img src="images/HR Dash1.jpeg" alt="Project Presentation" style="width: 75%; max-width: 500px; height: auto;" />
 
+### Projects 4 & 5: Excel Dashboards
+
+Project Goal: To take data from Excel and produce a dynmamic Dashboard (project 4) and a stand alone simple Sales Report (project 5). Went with Excel as our tool to build this was a cheaper and quicker option for the clients compared to other options(Power bi etc). 
+
+Key Insights:  n/a
+
+Dataset's: Sales
+
+Tools: Excel
+
+<img src="images/ExcelDash.jpg" alt="Project Presentation" style="width: 75%; max-width: 500px; height: auto;" />
+
+
+
