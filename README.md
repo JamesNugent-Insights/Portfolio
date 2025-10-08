@@ -20,12 +20,12 @@ Tools: Power BI
 
 ### Project 2: Customer Segmentation / Python
 
-Project Goal: To run a clustering algorthim on the dataset to see whether or not there is any clear segmentation of customers.  Average income and Score Rating were chosen as the two fields.
+Project Goal: To run a clustering algorithm on the dataset to see whether or not there is any clear segmentation of customers.  Average income and Score Rating were chosen as the two fields.
 Clusters would be reviewed and marketing advice would be given. 
 
 Key Insights:  
 - N Clusters was set to 6
-- Clusers of note were 1, 2 and 4
+- Clusters of note were 1, 2 and 4
 - Cluster 1 was labelled as 'High earner/High Spend'.  Recommendation of high ticket items and high frequency of marketing.
 - Cluster 2 was labelled as 'High earner/Low Spend'.  Potential opportunity to convert these into cluster 1.  Further analysis required - Recommendation to look at other differences between cluster 1 and 2 (Gender,Age, Products)
 - Cluster 4 was labelled as 'Low earner/High Spend'.  Recommendation of discounts/sale items as well as limited time offers.
@@ -40,12 +40,12 @@ Tools: Python, K-means Clustering
 
 ### Project 3: HR Analysis / SQL / Power BI
 
-Project Goal 1: To create a database for the client which would include data from 3 seperate CSV files.  Query the database to complete the following tasks for the client: 1 - Find a list of the 'heathiest' associates, 2 - Caluculate the max cash pay increase that can be rewarded to associates based on the current budget of the client.
+Project Goal 1: To create a database for the client which would include data from 3 separate CSV files.  Query the database to complete the following tasks for the client: 1 - Find a list of the 'healthiest' associates, 2 - Calculate the max cash pay increase that can be rewarded to associates based on the current budget of the client.
 
 Project Goal 2: Create a data link between the database and Power BI + Create a Dashboard that would enable the user to review key KPI's and trends across the dataset with the ability to filter by season.
 
 Key Insights:  
-Goal 1 questions: List of 111 associates identified as 'heathiest' based on a set of critera agreed with client.  List of assoicate IDs sent back to client. Max cash pay increase for the year per associate calculated to be $1,414
+Goal 1 questions: List of 111 associates identified as 'healthiest' based on a set of criteria agreed with client.  List of associate IDs sent back to client. Max cash pay increase for the year per associate calculated to be $1,414
 
 Goal 2 - Dashboard handed over to client, analysis not required.
 
@@ -57,7 +57,7 @@ Tools: SQL, Power BI
 
 ### Projects 4 & 5: Excel Dashboards
 
-Project Goal: To take data from Excel and produce a dynmamic Dashboard (project 4) and a stand alone simple Sales Report (project 5). Went with Excel as our tool to build this was a cheaper and quicker option for the clients compared to other options(Power bi etc). 
+Project Goal: To take data from Excel and produce a dynamic Dashboard (project 4) and a stand alone simple Sales Report (project 5). Went with Excel as our tool to build this was a cheaper and quicker option for the clients compared to other options(Power bi etc). 
 
 Key Insights:  n/a
 
