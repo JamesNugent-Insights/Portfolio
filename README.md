@@ -32,3 +32,5 @@ Designed and developed a dashboard to track financial performance across complet
 ---
 
 ![Completed Jobs Dashboard](images/CompletedJobs1.png)
+
+*Note: Data shown has been anonymised and adjusted for portfolio purposes. Insights are representative of real-world analysis but may not exactly match the displayed figures.*
