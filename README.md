@@ -11,7 +11,7 @@ Data & Finance Analyst with 16+ years of experience delivering reporting, automa
 
 ## 📊 BI / Reporting
 
-### Completed Jobs Dashboard
+### 📈 Completed Jobs Dashboard
 
 **Goal:**  
 Consolidate completed project data into a single dashboard to enable performance to be reviewed at both an overall and detailed level, with the ability to filter by sector and contract type.
@@ -35,7 +35,9 @@ Designed and developed a dashboard to track financial performance across complet
 
 *Note: Data shown has been anonymised and adjusted for portfolio purposes. Insights are representative of real-world analysis but may not exactly match the displayed figures.*
 
-### Tender Pipeline & Performance Dashboard
+---
+
+### ⚙️ Tender Pipeline & Performance Dashboard
 
 **Goal:**  
 Enhance an existing tender tracking dashboard to improve visibility of live opportunities, highlight risks, and enable more structured analysis of tender performance over time.
