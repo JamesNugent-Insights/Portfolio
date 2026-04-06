@@ -1,9 +1,12 @@
+Replace what you have with this full structure:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio | James Nugent /title>
+  <title>Portfolio | James Nugent</title>
+
   <style>
     body {
       margin: 0;
@@ -43,19 +46,19 @@
     }
   </style>
 </head>
+
 <body>
 
   <section class="hero">
     <div class="hero-subtitle">Portfolio</div>
     <h1>James Nugent</h1>
     <p>
-      Data &amp; Finance Analyst with 16+ years of experience delivering data-driven insights,
-      building automated reporting solutions, and improving business performance. Skilled in
-      transforming complex and fragmented data into structured models, dashboards, and practical
-      decision-support tools using Excel, Power BI, Python, and SQL.
+      Data &amp; Finance Analyst with 16+ years of experience delivering reporting,
+      automation, and insight to support business performance. Skilled in turning
+      complex data into structured models, dashboards, and practical decision-support
+      tools using Excel, Power BI, Python, and SQL.
     </p>
   </section>
 
 </body>
 </html>
-Why this works
