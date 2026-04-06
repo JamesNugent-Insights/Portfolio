@@ -1,4 +1,3 @@
-Replace what you have with this full structure:
 
 <!DOCTYPE html>
 <html lang="en">
