@@ -1,14 +1,5 @@
 
 
-# Portfolio
-
-## James Nugent
-
-Data & Finance Analyst with 16+ years of experience delivering reporting, automation, and insight to support business performance. Skilled in turning complex data into structured models, dashboards, and practical decision-support tools using Excel, Power BI, Python, and SQL.
-
-
-## 📊 BI / Reporting
-
 ### Completed Jobs Dashboard
 
 **Goal:**  
@@ -25,4 +16,8 @@ Designed and developed a dashboard to track financial performance across complet
 - Interactive filtering using slicers for detailed analysis
 
 **Insight Example:**
-- Early analysis shows a significant difference in profitability between contract types, with one delivering nearly double the margin of the other—contrary to initial business expectations. This highlights the value of structured reporting in validating assumptions and identifying areas for further investigation.
+- Early analysis shows a significant difference in profitability between contract types, with one delivering nearly double the margin of the other—contrary to initial business expectations.
+
+---
+
+![Completed Jobs Dashboard](images/CompletedJobs1.png)
