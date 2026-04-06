@@ -47,7 +47,7 @@
 
   <section class="hero">
     <div class="hero-subtitle">Portfolio</div>
-    <h1>Your Name</h1>
+    <h1>James Nugent</h1>
     <p>
       Data &amp; Finance Analyst with 16+ years of experience delivering data-driven insights,
       building automated reporting solutions, and improving business performance. Skilled in
