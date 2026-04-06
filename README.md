@@ -34,3 +34,38 @@ Designed and developed a dashboard to track financial performance across complet
 ![Completed Jobs Dashboard](images/CompletedJobs1.png)
 
 *Note: Data shown has been anonymised and adjusted for portfolio purposes. Insights are representative of real-world analysis but may not exactly match the displayed figures.*
+
+### Live Tenders Dashboard
+
+**Goal:**  
+Enhance an existing tender tracking dashboard to improve visibility of live opportunities, highlight risks, and enable more structured analysis of tender performance over time.
+
+**Overview:**  
+Originally built using SUMIF-based calculations, the solution was redesigned into a more robust and scalable data model using structured tables and pivot tables. Developed for a construction business, the dashboard was split into two focused views: a live pipeline dashboard for monitoring current tenders and identifying risks, and a historical dashboard to analyse performance trends and outcomes.
+
+**Key Features:**
+- Transition from formula-based reporting to a structured data model using pivot tables  
+- Data cleansing to address inconsistencies, blanks, and formatting issues  
+- Separate dashboards for live tenders and historical performance  
+- Interactive filtering by sector, client, and year  
+- Automated updates through structured data inputs and refreshable dashboards  
+- Improved VBA process to append new records correctly to the data table (ensuring data integrity and consistency)  
+- Live pipeline ordered by tender deadline, with conditional formatting (RAG status) to highlight approaching or overdue submissions  
+- Interactive element allowing users to select a project and dynamically display the latest comments from the underlying data (via VBA)  
+
+**Insight Examples:**
+- Identified a high-volume client with a 0% success rate across tenders, prompting consideration of bid strategy and resource allocation.  
+- PQQ (Pre-Qualification Questionnaire) success rates are high overall but show a declining trend over the past three years, indicating a potential shift in competitiveness or client requirements.  
+- A large proportion of live tenders are currently ranked lowest (5/5) in terms of strategic priority, suggesting potential inefficiencies in resource allocation and raising the question of whether time is being invested in low-value opportunities.  
+
+---
+
+**## Tender Performance Dashboard**
+
+<img src="images/Precon1.png" width="900"/>
+
+**Historical Performance Dashboard**
+
+<img src="images/Precon2.png" width="900"/>
+
+*Note: Data shown has been anonymised and adjusted for portfolio purposes. Insights are representative of real-world analysis but may not exactly match the displayed figures.*
