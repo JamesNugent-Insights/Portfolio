@@ -35,7 +35,7 @@ Designed and developed a dashboard to track financial performance across complet
 
 *Note: Data shown has been anonymised and adjusted for portfolio purposes. Insights are representative of real-world analysis but may not exactly match the displayed figures.*
 
-### Live Tenders Dashboard
+### Tender Pipeline & Performance Dashboard
 
 **Goal:**  
 Enhance an existing tender tracking dashboard to improve visibility of live opportunities, highlight risks, and enable more structured analysis of tender performance over time.
@@ -60,7 +60,7 @@ Originally built using SUMIF-based calculations, the solution was redesigned int
 
 ---
 
-**## Tender Performance Dashboard**
+**Live Tender Pipeline**
 
 <img src="images/Precon1.png" width="900"/>
 
