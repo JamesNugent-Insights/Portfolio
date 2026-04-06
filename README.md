@@ -17,7 +17,7 @@ Data & Finance Analyst with 16+ years of experience delivering reporting, automa
 Consolidate completed project data into a single dashboard to enable performance to be reviewed at both an overall and detailed level, with the ability to filter by sector and contract type.
 
 **Overview:**  
-Designed and developed a dashboard to track financial performance across completed projects, combining multiple data sources into a structured model. The dashboard provides a clear view of revenue, profit, and margin trends, with both full-year and current-year KPI summaries.
+Designed and developed a dashboard to track financial performance across completed projects for a construction business, combining multiple data sources into a structured model. The dashboard provides a clear view of revenue, profit, and margin trends, with both full-year and current-year KPI summaries.
 
 **Key Features:**
 - KPI summary for total jobs, revenue, profit, and profit margin (All Years vs Current Year)
