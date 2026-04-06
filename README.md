@@ -1,71 +1,61 @@
-# Portfolio Projects
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio | Your Name</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f4f5f7;
+      color: #1f2937;
+    }
 
-### Project 1: Churn Analysis / Power BI 
+    .hero {
+      background-color: #163b68;
+      color: white;
+      padding: 70px 20px 60px;
+      text-align: center;
+    }
 
-Project Goal: To create a report in Power BI that the user could interact with in order to gain insights around churn rates for customers.
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: 3rem;
+      font-weight: 700;
+    }
 
-Key Insights:  
-- German customers with a much higher churn rate than Spain and France (32% vs 16% avg )
-- Female Customers with a higher churn rate than men (25% vs 17%)
-- Positive relationship between Age and Churn rate, with a notable spike from around 50-60 yrs
-- No notable relationship between Credit score and churn rates
-- Low savings and very high savings showed high churn rates vs low for those with average savings.
+    .hero p {
+      max-width: 850px;
+      margin: 0 auto;
+      font-size: 1.1rem;
+      line-height: 1.7;
+      color: #dbe6f3;
+    }
 
-Dataset: Bank Customers
+    .hero-subtitle {
+      margin-bottom: 14px;
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      color: #bcd0e8;
+    }
+  </style>
+</head>
+<body>
 
-Tools: Power BI
+  <section class="hero">
+    <div class="hero-subtitle">Portfolio</div>
+    <h1>Your Name</h1>
+    <p>
+      Data &amp; Finance Analyst with 16+ years of experience delivering data-driven insights,
+      building automated reporting solutions, and improving business performance. Skilled in
+      transforming complex and fragmented data into structured models, dashboards, and practical
+      decision-support tools using Excel, Power BI, Python, and SQL.
+    </p>
+  </section>
 
-<img src="images/Churn_Dashboard.jpeg" alt="Project Presentation" style="width: 75%; max-width: 500px; height: auto;" />
-
-
-### Project 2: Customer Segmentation / Python
-
-Project Goal: To run a clustering algorithm on the dataset to see whether or not there is any clear segmentation of customers.  Average income and Score Rating were chosen as the two fields.
-Clusters would be reviewed and marketing advice would be given. 
-
-Key Insights:  
-- N Clusters was set to 6
-- Clusters of note were 1, 2 and 4
-- Cluster 1 was labelled as 'High earner/High Spend'.  Recommendation of high ticket items and high frequency of marketing.
-- Cluster 2 was labelled as 'High earner/Low Spend'.  Potential opportunity to convert these into cluster 1.  Further analysis required - Recommendation to look at other differences between cluster 1 and 2 (Gender,Age, Products)
-- Cluster 4 was labelled as 'Low earner/High Spend'.  Recommendation of discounts/sale items as well as limited time offers.
-
-Dataset: Mall Customers
-
-Tools: Python, K-means Clustering
-
-<img src="images/Clustering1.jpeg" alt="Project Presentation" style="width: 75%; max-width: 500px; height: auto;" />
-
-
-
-### Project 3: HR Analysis / SQL / Power BI
-
-Project Goal 1: To create a database for the client which would include data from 3 separate CSV files.  Query the database to complete the following tasks for the client: 1 - Find a list of the 'healthiest' associates, 2 - Calculate the max cash pay increase that can be rewarded to associates based on the current budget of the client.
-
-Project Goal 2: Create a data link between the database and Power BI + Create a Dashboard that would enable the user to review key KPI's and trends across the dataset with the ability to filter by season.
-
-Key Insights:  
-Goal 1 questions: List of 111 associates identified as 'healthiest' based on a set of criteria agreed with client.  List of associate IDs sent back to client. Max cash pay increase for the year per associate calculated to be $1,414
-
-Goal 2 - Dashboard handed over to client, analysis not required.
-
-Dataset: HR Data
-
-Tools: SQL, Power BI
-
-<img src="images/HR Dash1.jpeg" alt="Project Presentation" style="width: 75%; max-width: 500px; height: auto;" />
-
-### Projects 4 & 5: Excel Dashboards
-
-Project Goal: To take data from Excel and produce a dynamic Dashboard (project 4) and a stand alone simple Sales Report (project 5). Went with Excel as our tool to build this was a cheaper and quicker option for the clients compared to other options(Power bi etc). 
-
-Key Insights:  n/a
-
-Dataset's: Sales
-
-Tools: Excel
-
-<img src="images/ExcelDash.jpg" alt="Project Presentation" style="width: 75%; max-width: 500px; height: auto;" />
-
-
-
+</body>
+</html>
+Why this works
