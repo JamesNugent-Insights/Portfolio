@@ -66,6 +66,8 @@ Originally built using SUMIF-based calculations, the solution was redesigned int
 
 <img src="images/Precon1.png" width="900"/>
 
+---
+
 **Historical Performance Dashboard**
 
 <img src="images/Precon2.png" width="900"/>
