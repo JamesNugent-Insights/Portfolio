@@ -5,9 +5,18 @@
 ## James Nugent  
 **Data & Finance Analyst**
 
-Data & Finance Analyst with 16+ years of experience delivering reporting, automation, and insight to support business performance. Skilled in turning complex data into structured models, dashboards, and practical decision-support tools using Excel, Power BI, Python, and SQL.
+## Who I Am
+Data & Finance Analyst with 16+ years of experience delivering reporting, automation, and insight to support business performance.
 
----
+## What I Do
+I help small and medium-sized businesses improve their data analysis, reporting, and financial decision-making through structured data models, dashboards, and practical financial planning tools.
+
+## What I Can Help With
+- Cleaning and structuring messy or inconsistent data  
+- Building dashboards to track financial performance and key metrics
+- Automating Excel reports and reducing manual processes
+- Creating budgets, forecasts, and financial models  
+- Improving cash flow visibility and financial planning 
 
 ## 📊 BI / Reporting
 
