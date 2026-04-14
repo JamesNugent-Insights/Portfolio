@@ -87,18 +87,17 @@ Originally working with semi-structured Excel files across multiple projects, th
 The process transforms raw source data into a clean, analysis-ready dataset, enabling consistent reporting of revenue, cost, and margin metrics. The final dashboard provides both high-level KPI summaries and detailed breakdowns, supported by interactive filtering.
 
 **Key Features:**  
-- Transformation of semi-structured project files into a structured data model  
-- Data cleaning to remove subheadings and standardise format for analysis  
+-- Transformation of semi-structured files into a structured data model  
+- Data cleaning and standardisation for analysis  
 - Power Query used to unpivot and reshape financial data  
-- Additional fields (month, year, project) derived from file structure  
 - Consolidation of multiple project files into a unified dataset  
-- Summary dashboard built using Pivot Tables  
-- Measures developed for budget, actual, and margin calculations  
-- Interactive filtering using slicers for detailed analysis  
-- Multiple views including month-on-month trends and current vs original costs
+- Dashboard built using Pivot Tables with measures and interactive filtering
 
+### Data Pipeline
   <img src="images/CVR1.png" width="900"/>
-  
+
+
+### Final Dashboard Output
   <img src="images/CVR2.png" width="900"/>
 
 *Note: Data shown has been anonymised and adjusted for portfolio purposes. Insights are representative of real-world analysis but may not exactly match the displayed figures.*
