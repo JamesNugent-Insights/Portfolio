@@ -1,6 +1,6 @@
 
 
-# Data & Finance Analyst Portfolio <img src="images/Adobe1.png" width="30" style="vertical-align: text-bottom;">
+# Data & Finance Analyst Portfolio <img src="images/Adobe1.png" width="60" style="vertical-align: text-bottom;">
 
 ### Helping small and medium-sized businesses improve reporting, financial visibility, and decision-making
 
