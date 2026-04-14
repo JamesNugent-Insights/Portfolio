@@ -9,7 +9,7 @@
 ## Who I Am
 
 **James Nugent**  
-Data & Finance Analyst with 16+ years of experience delivering reporting, automation, and insight to support business performance.
+Data & Finance Analyst with 16+ years of experience delivering reporting, automation, and financial insight to support business performance and decision-making.
 
 ---
 
