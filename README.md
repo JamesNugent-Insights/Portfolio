@@ -27,8 +27,6 @@ I help small and medium-sized businesses improve reporting and financial decisio
 
 ## 📊 BI / Reporting
 
----
-
 ### 📈 Project 1: Completed Jobs Dashboard (Excel)
 
 **Goal:**  
