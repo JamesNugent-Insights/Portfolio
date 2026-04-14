@@ -17,8 +17,6 @@ Data & Finance Analyst with 16+ years of experience delivering reporting, automa
 
 I help small and medium-sized businesses improve reporting and financial decision-making by combining data analysis with budgeting, forecasting, and financial modelling.
 
-Focused on improving visibility of revenue, cost, profitability, and cash flow.
-
 ---
 
 ## What I Can Help With
