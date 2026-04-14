@@ -93,8 +93,11 @@ The process transforms raw source data into a clean, analysis-ready dataset, ena
 - Summary dashboard built using Pivot Tables  
 - Measures developed for budget, actual, and margin calculations  
 - Interactive filtering using slicers for detailed analysis  
-- Multiple views including month-on-month trends and current vs original costs  
+- Multiple views including month-on-month trends and current vs original costs
 
-![Data Pipeline](CVR1.png)
+  <img src="images/CVR1.png" width="900"/>
+  
+  <img src="images/CVR2.png" width="900"/>
 
-![Data Pipeline](CVR2.png)
+
+
