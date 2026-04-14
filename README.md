@@ -11,7 +11,7 @@ Data & Finance Analyst with 16+ years of experience delivering reporting, automa
 
 ## 📊 BI / Reporting
 
-### 📈 Completed Jobs Dashboard (Excel)
+### 📈 Project 1: Completed Jobs Dashboard (Excel)
 
 **Goal:**  
 Consolidate completed project data into a single dashboard to enable performance to be reviewed at both an overall and detailed level, with the ability to filter by sector and contract type.
@@ -37,7 +37,7 @@ Designed and developed a dashboard to track financial performance across complet
 
 ---
 
-### ⚙️ Tender Pipeline & Performance Dashboard (Excel)
+### ⚙️ Project 2: Tender Pipeline & Performance Dashboard (Excel)
 
 **Goal:**  
 Enhance an existing tender tracking dashboard to improve visibility of live opportunities, highlight risks, and enable more structured analysis of tender performance over time.
@@ -74,10 +74,12 @@ Originally built using SUMIF-based calculations, the solution was redesigned int
 
 *Note: Data shown has been anonymised and adjusted for portfolio purposes. Insights are representative of real-world analysis but may not exactly match the displayed figures.*
 
-## 🔄 Data Pipeline
+---
+
+## 🔄 Project 3: End-to-End Financial Data Model & Dashboard (Excel)
 
 **Goal:**  
-Consolidate completed project data into a single dashboard to improve visibility of financial performance, enable structured analysis of budget vs actuals, and support comparison across projects, sectors, and contract types.
+Consolidate multiple live project data files into a single dashboard to improve visibility of financial performance, enable structured analysis of budget vs actuals, and support comparison across projects, sectors, and contract types.
 
 **Overview:**  
 Originally working with semi-structured Excel files across multiple projects, the solution was redesigned into a structured and scalable data model using Excel tables, Power Query, and Pivot Tables.  
@@ -99,5 +101,5 @@ The process transforms raw source data into a clean, analysis-ready dataset, ena
   
   <img src="images/CVR2.png" width="900"/>
 
-
+*Note: Data shown has been anonymised and adjusted for portfolio purposes. Insights are representative of real-world analysis but may not exactly match the displayed figures.*
 
