@@ -1,11 +1,9 @@
 
 
-# Portfolio
-
-## James Nugent  
-**Data & Finance Analyst**
+# Data & Finance Analyst Portfolio
 
 ## Who I Am
+## James Nugent  
 Data & Finance Analyst with 16+ years of experience delivering reporting, automation, and insight to support business performance.
 
 ## What I Do
