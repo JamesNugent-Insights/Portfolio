@@ -11,13 +11,9 @@
 **James Nugent**  
 Data & Finance Analyst with 16+ years of experience delivering reporting, automation, and financial insight to support business performance and decision-making.
 
----
-
 ## What I Do
 
 I help small and medium-sized businesses improve reporting and financial decision-making by combining data analysis with budgeting, forecasting, and financial modelling.
-
----
 
 ## What I Can Help With
 
