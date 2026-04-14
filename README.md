@@ -2,39 +2,32 @@
 
 # Data & Finance Analyst Portfolio
 
+### Helping small and medium-sized businesses improve reporting, financial visibility, and decision-making
+
+---
+
 ## Who I Am
-## James Nugent  
+
+**James Nugent**  
 Data & Finance Analyst with 16+ years of experience delivering reporting, automation, and insight to support business performance.
 
+---
+
 ## What I Do
-I help small and medium-sized businesses improve their data analysis, reporting, and financial decision-making through structured data models, dashboards, and practical financial planning tools.
+
+I help small and medium-sized businesses improve reporting and financial decision-making by combining data analysis with budgeting, forecasting, and financial modelling.
+
+Focused on improving visibility of revenue, cost, profitability, and cash flow.
+
+---
 
 ## What I Can Help With
+
 - Cleaning and structuring messy or inconsistent data  
-- Building dashboards to track financial performance and key metrics
-- Automating Excel reports and reducing manual processes
+- Building dashboards to track financial performance and key metrics  
+- Automating Excel reports and reducing manual processes  
 - Creating budgets, forecasts, and financial models  
-- Improving cash flow visibility and financial planning 
-
-## 📊 BI / Reporting
-
-### 📈 Project 1: Completed Jobs Dashboard (Excel)
-
-**Goal:**  
-Consolidate completed project data into a single dashboard to enable performance to be reviewed at both an overall and detailed level, with the ability to filter by sector and contract type.
-
-**Overview:**  
-Designed and developed a dashboard to track financial performance across completed projects for a construction business, combining multiple data sources into a structured model. The dashboard provides a clear view of revenue, profit, and margin trends, with both full-year and current-year KPI summaries.
-
-**Key Features:**
-- KPI summary for total jobs, revenue, profit, and profit margin (All Years vs Current Year)
-- Profit % tracked against a defined performance target
-- Breakdown of performance by sector (Commercial vs Residential)
-- Comparison of contract types (Design & Build vs Traditional)
-- Interactive filtering using slicers for detailed analysis
-
-**Insight Example:**
-- Early analysis shows a significant difference in profitability between contract types, with one delivering nearly double the margin of the other—contrary to initial business expectations.
+- Improving cash flow visibility and financial planning  
 
 ---
 
