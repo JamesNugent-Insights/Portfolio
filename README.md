@@ -23,6 +23,14 @@ I help businesses turn data into actionable insights through reporting and dashb
 - Creating budgets, forecasts, and financial models  
 - Improving cash flow visibility and financial planning  
 
+## Tools
+
+- Advanced Excel
+- Power Query
+- Power BI
+- SQL
+- Python
+
 ---
 
 ## 📊 BI / Reporting
