@@ -13,7 +13,7 @@ Data & Finance Analyst with 16+ years of experience delivering reporting, automa
 
 ## What I Do
 
-I help small and medium-sized businesses with data analysis, reporting, and dashboard development, alongside budgeting, forecasting, and financial modelling support
+I help businesses turn data into actionable insights through reporting and dashboards, while also providing expertise in budgeting, forecasting, and financial modelling.
 
 ## What I Can Help With
 
