@@ -27,6 +27,7 @@ I help businesses turn data into actionable insights through reporting and dashb
 
 - Advanced Excel
 - Power Query
+- VBA
 - Power BI
 - SQL
 - Python
